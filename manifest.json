@@ -1,0 +1,11 @@
+{
+  "domain": "concept2",
+  "name": "Concept2 Logbook",
+  "version": "0.2.1",
+  "documentation": "https://log.concept2.com",
+  "requirements": ["beautifulsoup4==4.12.3"],
+  "codeowners": ["@bijns/haconcept2log"],
+  "iot_class": "cloud-polling",
+  "integration_type": "hub",
+  "config_flow": true
+}
